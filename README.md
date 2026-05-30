@@ -6,7 +6,7 @@ I'm not a developer by background. But I've been building and maintaining a real
 
 ## What you'll find in my repos
 
-I keep everything public on purpose. If you're a non-technical person who's curious about what it actually looks like to build with AI — the commits, the file structure, the incremental changes — I hope seeing my work is useful or encouraging.
+I keep my personal projects public on purpose. If you're a non-technical person who's curious about what it actually looks like to build with AI — the commits, the file structure, the incremental changes — I hope seeing my work is useful or encouraging.
 
 - **[otf](https://github.com/tamaroolaz-me/otf)** — the codebase behind opentofeedback.com. A Next.js site I describe in plain English and Claude helps me ship.
 - **[meal-plan-app](https://github.com/tamaroolaz-me/meal-plan-app)** — a personal project I built with AI to simplify weekly meal planning.
